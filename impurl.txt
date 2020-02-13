@@ -1,0 +1,4 @@
+﻿https://www.npmjs.com/package/cors
+https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expressjs-and-mongodb-99348012925d
+
+https://www.callicoder.com/node-js-express-mongodb-restful-crud-api-tutorial/
